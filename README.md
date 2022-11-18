@@ -1,8 +1,8 @@
 ### Hi there 👋
 
 
-![header](https://capsule-render.vercel.app/api?type=Waving&color=gradient&text=%20Welcome!%20&height=300&fontSize=100&textBg=true&animation=fadeIn&fontColor=d6ace6&desc=Hello%20capsule%20render)
-)
+![header](https://capsule-render.vercel.app/api?type=Waving&color=gradient&text=%20Welcome!%20&height=300&fontSize=100&textBg=true&animation=fadeIn&fontColor=d6ace6&desc=Hello%20capsule%20render&fontAlign=70&descSize=30&rotate=-30)
+
 
 
 
