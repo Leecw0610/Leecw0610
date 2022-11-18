@@ -1,8 +1,7 @@
 ### Hi there 👋
 
 
-![header](https://capsule-render.vercel.app/api?type=Waving&color=timeGradient&text=%20Welcome!%20&height=300&fontSize=100&textBg=true&animation=fadeIn&desc=Hello&descSize=30)
-
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Welcome!%20render&fontSize=70&fontAlignY=20&desc=ChanwoongGithub&descAlignY=40)
 
 
 
