@@ -1,15 +1,7 @@
 ### Hi there 👋
 
 
-![header](https://capsule-render.vercel.app/api?type=Waving&color=timeGradient&text=%20Welcome!%20&height=300&fontSize=100&textBg=true&animation=fadeIn&desc=Hello&descSize=30){
-        "idx": 7,
-        "color": "97DBAE",
-        "text": "363636",
-        "textBg": "f7f5f5"
-    }
-
-
-
+![header](https://capsule-render.vercel.app/api?type=Waving&color=timeGradient&text=%20Welcome!%20&height=300&fontSize=100&textBg=true&animation=fadeIn&desc=Hello&descSize=30)
 
 
 
